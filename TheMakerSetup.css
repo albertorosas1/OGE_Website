@@ -37,23 +37,59 @@ h3 {
 }
 
 h4 {
-	color: black;
-	font-size: 35px;
-	font-style: normal;
-	text-align: left;
+	font-size: 30px;
 	position: relative;
-	bottom: -10px;
+	bottom: -40px;
 	
 }
 
-h5 {
-	text-algin: left;
+#firstParagraph {
+
+	border: 2px solid black;
+	margin: auto;
+	padding: 1px;
 	color: black;
-	font-size: 35px;
+	text-align: left;
+	line-height: 10pt;
+	background-color: GhostWhite;
+	width: fit-content;
 	position: relative;
-	bottom: -20px;
+	left: -665px;
+	top: 14px;
+	font-size: 20px;
+	
+}
+#secondParagraph {
+
+	border: 2px solid black;
+	margin: auto;
+	padding: 1px;
+	color: black;
+	text-align: left;
+	line-height: 10pt;
+	background-color: GhostWhite;
+	width: fit-content;
+	position: relative;
+	left: -565px;
+	top: 14px;
+	font-size: 20px;
 }
 
+#thirdParagraph {
+
+	border: 2px solid black;
+	margin: auto;
+	padding: 1px;
+	color: black;
+	text-align: left;
+	line-height: 10pt;
+	background-color: GhostWhite;
+	width: fit-content;
+	position: relative;
+	left: -610px;
+	top: 14px;
+	font-size: 20px;
+}
 .button {
   background-color: #4CAF50;
   border: none;
@@ -66,4 +102,3 @@ h5 {
   margin: 4px 2px;
   cursor: pointer;
 }
-
